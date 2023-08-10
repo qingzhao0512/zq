@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-US
-title: A Hugo website
+title: Life is short. Write for eternity.
 theme: hugo-lithium
 googleAnalytics: ''
 disqusShortname: ''
@@ -15,7 +15,7 @@ menu:
     - name: About
       url: /about/
     - name: GitHub
-      url: https://github.com/rstudio/blogdown
+      url: https://github.com/QingZhao0512
     - name: Twitter
       url: https://twitter.com/rstudio
 params:
