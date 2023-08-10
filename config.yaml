@@ -32,7 +32,7 @@ params:
   logo:
     alt: avatar
     height: 50
-    url: avatar.png
+    url: avatar.jpg
     width: 50
 markup:
   defaultMarkdownHandler: goldmark
