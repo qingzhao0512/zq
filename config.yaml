@@ -30,7 +30,7 @@ params:
   highlightjsTheme: github
   highlightjsVersion: 9.12.0
   logo:
-    alt: Logo
+    alt: avatar
     height: 50
     url: avatar.png
     width: 50
