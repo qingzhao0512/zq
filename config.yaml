@@ -12,7 +12,7 @@ permalinks:
   post: /:year/:month/:day/:slug/
 menu:
   main:
-    - name: About
+    - name: About me
       url: /about/
     - name: GitHub
       url: https://github.com/QingZhao0512
