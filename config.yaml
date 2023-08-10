@@ -17,7 +17,7 @@ menu:
     - name: GitHub
       url: https://github.com/QingZhao0512
     - name: Twitter
-      url: https://twitter.com/rstudio
+      url: https://twitter.com/watermelon_zq?t=GK-vE9p3Z1lxBrqPNYO2TQ&s=09
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
@@ -31,9 +31,9 @@ params:
   highlightjsVersion: 9.12.0
   logo:
     alt: Logo
-    height: 940
+    height: 50
     url: avatar.png
-    width: 940
+    width: 50
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
