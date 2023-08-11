@@ -12,4 +12,6 @@ tags:
 
 Today I learned the Shiny package and managed to build a simple interactive project. Looking forward to gradually improving and refining it in the future!
 
-[Give it a try](https://qingzhao.shinyapps.io/shiny/)
+**Give it a try**
+1. (https://qingzhao.shinyapps.io/shiny/)
+1. (https://qingzhao.shinyapps.io/counties/)
