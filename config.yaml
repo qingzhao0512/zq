@@ -18,6 +18,8 @@ menu:
       url: https://github.com/QingZhao0512
     - name: Twitter
       url: https://twitter.com/watermelon_zq?t=GK-vE9p3Z1lxBrqPNYO2TQ&s=09
+    - name: CV  
+      url: "files/CV.md"
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
