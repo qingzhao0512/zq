@@ -20,6 +20,8 @@ menu:
       url: https://twitter.com/watermelon_zq?t=GK-vE9p3Z1lxBrqPNYO2TQ&s=09
     - name: CV  
       url: "files/CV_QingZhao_230812.pdf"
+    - name: tags
+      url: "/tags"
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
