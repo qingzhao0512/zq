@@ -1,5 +1,5 @@
 ---
-title: 230817 | 即便从事社会科学，我仍然深信接近计算机、数据和理工领域是明智之举
+title: 230817 | Embracing Tech: A Wise Move in Social Sciences for me
 author: Qing
 date: '2023-08-17'
 slug: '230817'
@@ -9,8 +9,8 @@ tags:
   - 求索
 ---
 
-近期，我越发认识到生产力的发展与新技术的涌现能够深刻地改变现实情况。在我从事的health service research领域，本质上仍属于社会科学的特定领域，即医学。社会科学更多地专注于对世界进行解释，而并非直接推动变革。
+Recently, I have grown increasingly aware that the development of productivity and the emergence of new technologies can profoundly alter the current reality. In the field of health service research that I am engaged in, it essentially remains a specific realm within the domain of social sciences, specifically in medicine. Social sciences are more focused on interpreting the world rather than directly propelling transformation.
 
-不久前，我与纽约大学公卫学院罗老师共进晚餐，她也对实施科学颇感疑惑。她提到自己选修了一些商学院的课程，感觉到实施科学可能类似于商学院的组织行为学，只是领域之间尚未打通而已。
+Not long ago, I shared a dinner with Dr. Luo, a doctoral candidate from the School of Public Health at New York University. She, too, expressed her perplexity about the realm of implementation science. She mentioned that she had taken some courses from business schools and felt that implementation science might resemble organizational behavior in business schools, the difference being that the domains of medicine and business have yet to be integrated, thus leading us to explore ideas that have already been studied extensively in the business school context.
 
-我仍然不太倾向于深入大量综述和行为研究，但也对自己缺乏硬技能感到困惑。或许在寻找切入点方面，计算机领域可能会稍微有所助益。
+While I still lean away from delving extensively into exhaustive reviews and behavioral research, I am also puzzled by my lack of concrete technical skills. Perhaps, in the pursuit of finding a point of entry, the field of computer science might provide some assistance. After all, computer science stands as a discipline independent of physical hardware requirements, unlike, for example, a medical student who necessitates access to hospital facilities, surgical tools, and real-world clinical scenarios. The mastery of data analysis skills could indeed find more meaningful application within the context of social sciences.
