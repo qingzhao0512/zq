@@ -1,5 +1,5 @@
 ---
-title: '230913 | The new semester has begun'
+title: '20230913 | The new semester has begun'
 author: Qing
 date: '2023-09-13'
 slug: '230913'
