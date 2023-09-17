@@ -1,8 +1,8 @@
 ---
-title: 230917 | Presentation of English speaking class
+title: 20230917 | Presentation of English speaking class
 author: Qing
 date: '2023-09-17'
-slug: 230917-presentation-of-english-speaking-class
+slug: 20230917-presentation-of-english-speaking-class
 categories:
   - R Project
 tags:
@@ -28,11 +28,77 @@ data <- data.frame(
 
 # 创建趋势图
 ggplot(data, aes(x = Year, y = Publications)) +
-  geom_line() +           # 添加折线图层
-  geom_point() +          # 添加点图层
+  geom_line(color = "#990033") +  # 使用指定颜色
+  geom_point(color = "#990033") +  # 使用指定颜色
   labs(title = "Literature Trends on the Topic of Euthanasia in China", x = "Year", y = "Number of Publications") +  # 添加标题和轴标签
   theme_minimal()         # 使用简约主题
 ```
 
 <img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-2-1.png" width="672" />
+
+
+
+
+
+```r
+# 创建数据框
+data <- data.frame(
+  Group = c("Public (Self)", "Public (Relative)", "Healthcare Workers (Self)", "Healthcare Workers (Relative)"),
+  Percentage = c(76.8, 65.4, 83.4, 72.7)
+)
+
+# 创建深红色
+colors <- c("#FF0033", "#CC0033", "#990033", "#660033")
+
+# 创建可视化图表
+ggplot(data, aes(x = Group, y = Percentage, fill = Group)) +
+  geom_bar(stat = "identity", width = 0.6) +
+  geom_text(aes(label = paste0(Percentage, "%")), vjust = -0.5, size = 3) +
+  scale_fill_manual(values = colors) +
+  labs(
+    title = "Attitudes Towards Euthanasia",
+    x = "Group",
+    y = "Percentage",
+    fill = "Group"
+  ) +
+  theme_minimal() +
+  theme(
+    text = element_text(color = "black"),
+    axis.text.x = element_text(angle = 45, hjust = 1)
+  )
+```
+
+<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-3-1.png" width="672" />
+
+
+
+
+```r
+# 创建数据框
+data <- data.frame(
+  Year = c(1994, 1999, 2000, 2013),
+  Percentage = c(93.6, 90.77, 62.5, 46.36)
+)
+
+# 创建可视化图表
+ggplot(data, aes(x = Year, y = Percentage)) +
+  geom_line(color = "#990033") +  # 使用指定颜色
+  geom_point(color = "#990033") +  # 使用指定颜色
+  labs(
+    title = "Attitudes of Healthcare Workers Towards Euthanasia Over Time",
+    x = "Year",
+    y = "Percentage Agreeing with Euthanasia",
+    subtitle = "Data represents the percentage of healthcare workers agreeing with euthanasia over different years."
+  ) +
+  theme_minimal() +
+  theme(
+    text = element_text(color = "#990033"),  # 使用指定颜色
+    plot.title = element_text(hjust = 0.5, color = "#990033"),  # 使用指定颜色
+    plot.subtitle = element_text(hjust = 0.5, color = "#990033"),  # 使用指定颜色
+    axis.text.x = element_text(angle = 45, hjust = 1, color = "#990033")  # 使用指定颜色
+  )
+```
+
+<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-4-1.png" width="672" />
+
 
