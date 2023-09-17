@@ -1,8 +1,8 @@
 ---
-title: 230917 | Presentation of English speaking class
+title: 20230917 | Presentation of English speaking class
 author: Qing
 date: '2023-09-17'
-slug: 230917-presentation-of-english-speaking-class
+slug: 20230917-presentation-of-english-speaking-class
 categories:
   - R Project
 tags:
@@ -23,19 +23,18 @@ library(ggplot2)
 
 ```{r message=TRUE, warning=TRUE, paged.print=TRUE}
 
-# 创建趋势图，添加红色主题
+# 创建数据框
+data <- data.frame(
+  Year = c(1980:2019),
+  Publications = c(2, 4, 6, 9, 6, 4, 8, 7, 42, 28, 25, 36, 36, 42, 49, 56, 48, 47, 43, 58, 60, 58, 77, 91, 91, 115, 132, 138, 150, 122, 124, 163, 179, 150, 124, 122, 124, 120, 71, 99)
+)
+
+# 创建趋势图
 ggplot(data, aes(x = Year, y = Publications)) +
-  geom_line(color = "red") +    # 添加红色折线图层
-  geom_point(color = "red") +   # 添加红色点图层
+  geom_line(color = "#990033") +  # 使用指定颜色
+  geom_point(color = "#990033") +  # 使用指定颜色
   labs(title = "Literature Trends on the Topic of Euthanasia in China", x = "Year", y = "Number of Publications") +  # 添加标题和轴标签
-  theme_minimal() +             # 使用简约主题
-  theme(
-    text = element_text(color = "red"),  # 设置文本颜色为红色
-    panel.grid.major = element_blank(),  # 去除网格线
-    panel.grid.minor = element_blank(),
-    panel.background = element_rect(fill = "white"),
-    plot.title = element_text(hjust = 0.5, size = 14, face = "bold", color = "red")  # 设置标题属性
-  )
+  theme_minimal()         # 使用简约主题
 
 
 
