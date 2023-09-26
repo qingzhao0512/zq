@@ -11,13 +11,11 @@ tags:
   - Python Project
 ---
 
-
 Recently, my Python course has finished. Although it was an introductory course, teacher provided insightful explanations, guided us through **the learning path**, and offered **interactive learning materials**(such as .ipynb notebooks). I am very satisfied with it and have learned a lot.
 
-Today, I finally managed to use Python and GitHub projects. I utilized the project at [weibo-crawler](https://github.com/dataabc/weibo-crawler) and successfully retrieved Weibo records for 迪丽热巴. It was the project's default setting and I'm not her fan 😊. 
+Today, I finally managed to use Python and GitHub projects. I utilized the project at [weibo-crawler](https://github.com/dataabc/weibo-crawler) and successfully retrieved Weibo records for 迪丽热巴. It was the project's default setting and I'm not her fan 😊.
 
-
-Learning bit by bit~⛳
+Learning bit by bit\~⛳
 
 
 ```r
@@ -53,5 +51,12 @@ print(data)
 ## 1                             NA          2023-09-16 17:01:45
 ## 2                             NA     杨幂 2023-09-12 00:00:05
 ```
+
+  
+   
+  
+  
+    
+
 
 ![迪丽热巴](images/20230912T_4944935696730327.jpg "img")
