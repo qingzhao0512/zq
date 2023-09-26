@@ -1,0 +1,40 @@
+---
+title: 20230926 | I can use github and vscode simply now
+author: Qing
+date: '2023-09-26'
+slug: 20230926-i-can-use-github-and-vscode-simply-now
+categories:
+  - Python project
+  - Github project
+tags:
+  - Python project
+  - Github project
+---
+
+Recently, my Python course has finished. Although it was an introductory course, teacher provided insightful explanations, guided us through **the learning path**, and offered **interactive learning materials**(such as .ipynb notebooks). I am very satisfied with it and have learned a lot.
+
+Today, I finally managed to use Python and GitHub projects. I utilized the project at [weibo-crawler](https://github.com/dataabc/weibo-crawler) and successfully retrieved Weibo records for 迪丽热巴. It was the project's default setting and I'm not her fan 😊. 
+
+
+Learning bit by bit~⛳
+
+```{r message=TRUE, warning=TRUE, paged.print=TRUE}
+# 加载rio包
+library(rio)
+
+
+# 读取文件
+data <- import("D:/career/data/weibo-crawler-master/weibo/Dear-迪丽热巴/1669879400.csv", encoding = "UTF-8")
+
+
+
+print(data)
+
+
+
+
+
+
+```
+
+![迪丽热巴](images/20230912T_4944935696730327.jpg "img")
