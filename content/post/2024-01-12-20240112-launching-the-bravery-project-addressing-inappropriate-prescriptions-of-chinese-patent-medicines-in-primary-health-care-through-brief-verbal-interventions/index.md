@@ -11,7 +11,7 @@ tags:
 ---
 
 
-The formal launch of the <span style="color: rgb(79,125,169);">**Bravery**</span> project, which aims to conduct <span style="color: rgb(79,125,169);">**Br**</span>ief Verb<span style="color: rgb(79,125,169);">**a**</span>l Inter<span style="color: rgb(79,125,169);">**v**</span>ention to Address Inappropriate Pr<span style="color: rgb(79,125,169);">**e**</span>scriptions of Chinese Patent Medicines among Western P<span style="color: rgb(79,125,169);">**r**</span>actitioners in Primar<span style="color: rgb(79,125,169);">**y**</span> Health Care (<span style="color: rgb(79,125,169);">*bravery*</span>), has commenced. This initiative also constitutes the focal point of my doctoral research.
+The formal launch of the <span style="color: rgb(79,125,169);">**BRAVERY**</span> project, which aims to conduct <span style="color: rgb(79,125,169);">**Br**</span>ief Verb<span style="color: rgb(79,125,169);">**a**</span>l Inter<span style="color: rgb(79,125,169);">**v**</span>ention to Address Inappropriate Pr<span style="color: rgb(79,125,169);">**e**</span>scriptions of Chinese Patent Medicines among Western P<span style="color: rgb(79,125,169);">**r**</span>actitioners in Primar<span style="color: rgb(79,125,169);">**y**</span> Health Care (<span style="color: rgb(79,125,169);">*BRAVERY*</span>), has commenced. This initiative also constitutes the focal point of my doctoral research.
 
 
 
