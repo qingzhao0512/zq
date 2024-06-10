@@ -1,5 +1,5 @@
 ---
-title: 20240424 | Building a Twitter Bot for Implementation Science Research
+title: 20240424  | Building a Twitter Bot for Implementation Science Research
 author: Qing
 date: '2024-04-24'
 slug: 20240424-building-a-twitter-bot-for-implementation-science-research
