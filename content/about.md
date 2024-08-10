@@ -7,6 +7,6 @@ Hello, I am **Qing Zhao**, with the pronunciation `ching`.😁 Hailing from Chin
 
 In terms of pronouns, please use **she/her/hers** when referring to me.🍉
 
-This blog remains too emotional and narrative-focused. We need to shift towards more analytical writing. We’ll be transitioning to that style soon and will post the new link here!
+This blog remains too emotional and narrative-focused. I need to shift towards more analytical writing. I will be transitioning to that style soon and will post the new link here!
 
 
