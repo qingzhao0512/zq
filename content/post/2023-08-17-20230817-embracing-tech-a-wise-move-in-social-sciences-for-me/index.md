@@ -18,5 +18,5 @@ While I still lean away from delving extensively into exhaustive reviews and beh
 
 <br>
 
-![](images/终于把房间搞成了自习室.png)
+
 
