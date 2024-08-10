@@ -28,4 +28,4 @@ Since December 2023, I have been enrolled in the data engineering course offered
 <br /> 
 
 ![](images/1.png)  
-A graph created using **`ggplot2`**, designed in the style reminiscent of *The Economist*
+A graph created using **`ggplot2`**, designed in the style of *The Economist*
