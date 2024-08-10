@@ -10,31 +10,33 @@ tags:
   - 杂谈
 ---
 
-The Computational Social Science Workshop at Sun Yat-sen University wrapped up yesterday, and I'm still feeling a bit out of sorts. When I first arrived, I never imagined that I'd not only gain so much knowledge but also feel such a strong sense of farewell. The weather over these eight days was pretty extreme—either blazing sun or pouring rain—but the Sun Yat-sen University campus felt like the most beautiful place.
+中大计算社会讲习班昨天结束了，到现在还是有些恍惚。初来时完全没想到，除了课程学习的收获外，竟然还产生了离别的情绪。这八天天气其实不太好，要么是毒日头要么下暴雨，但在中大校园里，却觉得是最美的景致。
 
-I want to express my gratitude to the organizers for their top-notch course design and detailed event planning. The speakers were incredibly generous in sharing their expertise on the theories, methodologies, and latest developments in computational social science. It was also very thoughtful that there were no fees, which is great for young students.
+感谢主办方高屋建瓴的课程设计和细腻入微的会务服务，讲者们倾囊相授介绍了计算社科的理论、方法学、和前沿进展，也很感激没有收取费用，对年轻学生来说很友好。
 
-I also want to give a big thank you to the teachers and students from various schools and disciplines who attended this workshop. We had open and inclusive discussions, offered constructive feedback to each other, and avoided getting stuck in disciplinary rivalries. I learned so much, made many new friends, and even got to chat in person with a professor I had connected with online years ago.
+感谢本次讲习班遇到的各个学校和专业的老师同学，我们开放包容地交流，相互间提出建设性建议，也不会陷入学科之争。我学习到很多，也认识了很多新朋友，还和几年前就添加好友的老师现场聊天。
 
-A special shout-out goes to the workshop's teaching assistants, especially the five PhD students—Jinyan Chen, Yongxue Zhang, Yukun Ma, Mengzhen Jia, and Jia Yin. They graciously allowed us to roll in this course and handled most of the logistics, including event coordination and teaching assistance. They joined us for lunch, shared openly, and showcased not only their professional and programming skills but also the empathy and social responsibility typical of social science students. The image of a Sun Yat-sen social science student has become very vivid in my mind, and I have great respect and affection for them. I'm grateful for this brief encounter, and though we must part ways, I hope we can cross paths again in the future.
+感谢本次讲习班的助教，很热情地同意我们补录，除了专业授课之外，也承担了这个培训班的绝大多数工作如会务和助教等等、也和我们一起午餐，开诚布公地交流、专业能力和编程能力也很卓越、也有社科学生的共情力和社会责任感。从此，中大社科学生的样子在我心中具象化，我自己非常佩服与喜欢。很感谢能够短暂相遇，没有办法不离开，但是希望未来有机会再见。
 
-On the academic side, the biggest lesson I've learned from this workshop is that my self-study efforts won't quite match the level of those who have the right environment and previous experience. I should stick to my main field and continue working on health behavior interventions with my PhD supervisor. Computational science can stay a hobby.
+关于学术感受，感觉我自己瞎捣鼓自学应该是达不到她们的高度的，还是需要环境和之前的积淀在。我还是好好做老本行，跟着老板做健康行为干预吧。计算机当是爱好就行～
 
-Lastly, a big thank you to my study group of four for our early starts and late nights. I'm lucky to have met such like-minded friends; coordinating taxis, meals, and work isn't easy. Haha, so what event should we join next?
+当然还要感谢一下一起早出晚归的四人学习小组啦，很幸运遇到志趣相投的朋友们，毕竟拼打车吃饭还有喊人干活不容易。哈哈，下面咱们参加哪个活动呢？
+
+我也告诫自己不要太sentiment了，但至少明天晨起之前，尽情沉溺在里面吧～
 
 <br>
 
 ![](images/1.jpg)
 road map
-<br>
+`<br>`
 
 ![](images/2.jpg)
 campus
-<br>
+`<br>`
 
 ![](images/3.jpg)
 classroom
-<br>
+`<br>`
 
 ![](images/4.jpg)
 campus-2
