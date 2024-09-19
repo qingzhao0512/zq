@@ -22,3 +22,6 @@ This project has also served as an excellent opportunity for me to enhance my Py
 <br>
 
 ![](images/impscibot.png)
+
+
+**Aug,15. 2024 Update:** I have built the interactive site here: https://qingzhao.shinyapps.io/ISView/
